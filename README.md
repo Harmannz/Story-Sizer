@@ -1,4 +1,4 @@
-# Story-Sizer
+# Story-Sizer (WIP)
 A convolutional neural network (cnn) that estimates the size of agile stories based on its description.
 The data that the cnn uses is not present as it contains sensitive information to my office project.
 
